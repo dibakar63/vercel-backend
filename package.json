@@ -1,11 +1,11 @@
 {
-  "name": "graphql",
+  "name": "project_management",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon server/index.js",
-    "dev": "nodemon server/index.js"
+    "start": "node index.js",
+    "dev": "node index.js"
   },
   "keywords": [],
   "author": "",
